@@ -1,0 +1,9 @@
+server:
+    port: 8181
+spring:
+    servlet:
+        multipart:
+            max-file-size: 20MB
+            max-request-size: 20MB
+storage:
+    location: 'F:\record\2019\12\15\temp'
